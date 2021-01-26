@@ -1,0 +1,24 @@
+Machine Learning
+kind of ml:
+1. Supervised ml
+2. Unsupervised ml
+3. semi supervised ml
+4. reinforsement ml
+
+# Supervised ml 
+Study force, exam, result -> pass or fail
+
+# unsupervised ml
+building purchase -> price?
+
+# semi supervised ml
+
+# reinforcement
+
+learning process :
+1. batch learning
+2. online learning
+
+1. overfitting
+2. underfitting 1000 1000000
+
